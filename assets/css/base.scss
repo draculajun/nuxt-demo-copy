@@ -1,0 +1,11 @@
+$globalColor: #FE6022FF;
+
+$globalBackground: rgb(244, 244, 244);
+
+h1 {
+  color: blueviolet;
+}
+
+.commonTableHeader {
+  background: $globalBackground !important;
+}
